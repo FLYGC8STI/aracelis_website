@@ -12,7 +12,7 @@ The development server
         Django version 1.8, using settings 'mysite.settings'
         Starting development server at http://127.0.0.1:8000/
         Quit the server with CONTROL-C.
-</code><pre>
+</code></pre>
 
 <p>Now that the server’s running, visit http://127.0.0.1:8000/ with your Web browser. You’ll see a “Welcome to Django” page, in pleasant, light-blue pastel. It worked! </p>
 
