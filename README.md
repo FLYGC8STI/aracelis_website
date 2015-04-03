@@ -1,5 +1,11 @@
 # aracelis_website
+<pre><code>
+# To make sure you have all the files you can type
+git clone http://goo.gl/YKLJ9G folder-name
+</pre><code>
+<br>
 What’s the difference between a project and an app? An app is a Web application that does something – e.g., a Weblog system, a database of public records or a simple poll app. A project is a collection of configuration and apps for a particular Web site. A project can contain multiple apps. An app can be in multiple projects.
+<br>
 The development server
 ----------------------
 <pre><code> 
