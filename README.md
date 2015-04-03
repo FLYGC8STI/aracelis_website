@@ -26,3 +26,12 @@ What’s the difference between a project and an app? An app is a Web applicatio
 <p>
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 </p>
+<h3>Project Requirements</h3>
+<p>Use virtualenv if you want to use python for this test.</p>
+<pre><code>
+astroid==1.3.6
+Django==1.8
+logilab-common==0.63.2
+pylint==1.4.3
+six==1.9.0
+</pre></code>
