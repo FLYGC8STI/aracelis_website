@@ -8,3 +8,8 @@ if __name__ == "__main__":
     from django.core.management import execute_from_command_line
 
     execute_from_command_line(sys.argv)
+
+INSTALLED_APPS = (
+    # connecting the person data form to the database
+    'main_site'
+)
